@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shikhar Singh!
+# 👋 Hi, I'm Kartikey Rai!
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Class%20Representative%20%7C%20Electronics%20Engineering-blue?style=for-the-badge" alt="Role"/>
@@ -60,11 +60,10 @@ I am an Electronics Engineering student with a deep fascination for the intersec
 ---
 
 ### 🤝 Connect with Me
-- 💼 **GitHub:** [github.com/your-username](https://github.com) *(Update with your exact profile link, boss!)*
-- ✉️ **Email:** Reach out via my institutional network or personal inquiries.
+- 💼 **GitHub:** kartikey3205 [https://github.com/kartikey3205] *(Update with your exact profile link, boss!)*
+- ✉️ **Email:** kartikey616rai@gmail.com Reach out via my institutional network or personal inquiries.
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Shikhar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikey3205&show_icons=true&theme=tokyonight" alt="Shikhar's GitHub Stats" />
 </p>
