@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kartikey Rai!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Class%20Representative%20%7C%20Electronics%20Engineering-blue?style=for-the-badge" alt="Role"/>
+  <img src="https://img.shields.io/badge/Role-Electronics%20Engineering-blue?style=for-the-badge" alt="Role"/>
   <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Linux%20Dev-red?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/Location-Uttar%20Pradesh%2C%20India-orange?style=for-the-badge" alt="Location"/>
 </p>
