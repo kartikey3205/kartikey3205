@@ -8,7 +8,7 @@
 ---
 
 ### 🏢 Elite Cloud Private Limited
-<img src="YOUR_LOGO_URL" width="150" alt="Elite Cloud Logo" />
+<img src="1781183275527.png" width="150" alt="1781183275527.png" />
 <p><i>Building scalable infrastructure and secure solutions at Elite Cloud Private Limited.</i></p>
 
 ---
